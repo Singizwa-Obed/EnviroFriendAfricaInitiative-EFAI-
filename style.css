@@ -487,4 +487,27 @@ header {
 
 }
 
+}/* ===================================
+   GENERAL PAGE SPACING
+=================================== */
+
+section {
+    padding: 80px 8%;
+}
+
+
+.container {
+    width: 100%;
+    max-width: 1200px;
+    margin: auto;
+}
+
+
+p {
+    margin-bottom: 20px;
+}
+
+
+h1, h2, h3 {
+    line-height: 1.3;
 }
